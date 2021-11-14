@@ -1,0 +1,10 @@
+.swagger-codegen
+.swagger-codegen-ignore
+README.md
+.settings
+.gitignore
+target/
+.classpath
+.project
+.idea
+.vscode
